@@ -29,7 +29,7 @@ const styles = (theme) => ({
   },
 });
 
-class App extends React.Component {
+class Main extends React.Component {
   render() {
     const { classes } = this.props;
 
@@ -68,4 +68,4 @@ class App extends React.Component {
   }
 }
 
-export default withStyles(styles)(App);
+export default withStyles(styles)(Main);

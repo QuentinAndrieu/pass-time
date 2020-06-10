@@ -1,7 +1,6 @@
 import React from 'react';
 import {
   List,
-  makeStyles,
   ListItem,
   ListItemText,
   ListItemAvatar,
